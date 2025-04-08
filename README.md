@@ -1,4 +1,4 @@
-## Meu nome é Gabriely, sou uma estudande de engenharia da computação buscando cada dia aprender mais 👋
+## Meu nome é Gabriely👋
 
 - 🌱 Sou uma estagiária buscanco ser desenvolvedora backend júnior
 - 🔭 Estou me aprofundando mais em python para desenvolver conhecimentos em banco de dados, APIs, testes unitários e machine learning.
