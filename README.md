@@ -3,8 +3,6 @@
 - 🌱 Sou uma estagiária buscanco ser desenvolvedora backend júnior
 - 🔭 Estou me aprofundando mais em python para desenvolver conhecimentos em banco de dados, APIs, testes unitários e machine learning.
 - 👯 Atualmente trabalho com visão computacional, desenvolvendo modelos de machine learning para a [Nova Rota do Oeste](https://novarotadooeste.com.br).
-- 📫 Meu linkedin é: [Gabriely Barbosa](https://www.linkedin.com/in/gabrielybarbosa/)
-  - Se quiser me contatar, mande email para gabrielybarbosa191@gmail.com ou mensagem no linkedin acima 😄.
 
 <!--
 **GabrielyB/GabrielyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
